@@ -6,5 +6,6 @@ public class Main {
     Dev dev = new Dev();
     System.out.println(dev.sum(2,2));
     System.out.println(dev.quotient(4,2));
+    System.out.println(dev.sum(2,2));
   }
 }
