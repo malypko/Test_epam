@@ -4,4 +4,7 @@ public class Dev {
     return a + b;
   }
 
+  public float composition(float a, float b) {
+    return a * b;
+  }
 }
